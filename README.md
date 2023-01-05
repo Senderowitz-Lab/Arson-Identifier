@@ -10,14 +10,10 @@
 This project is done in cooperation with the DIFS - Arsons laboratory.\
 We aim to classify the spectra measured by DIFS - Arsons lab using GC-MS 
 
-To date, the forensic specialist measures....
-
 
 ## Our approach
 
 We propose the following workflow
-
-INSERT PIC
 
 - Synthesize new spectra
 - Preprocess

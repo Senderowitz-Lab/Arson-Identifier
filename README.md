@@ -12,9 +12,6 @@ We aim to classify the spectra measured by DIFS - Arsons lab using GC-MS
 
 To date, the forensic specialist measures....
 
-INSERT PIC herejupyter 
-
-by using a team of experts it determines Y
 
 ## Our approach
 
